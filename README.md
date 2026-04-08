@@ -1,2 +1,2 @@
-# copilot-cli
+# emacs-copilot-cli
 Buffer to work with copilot-cli inside emacs.
